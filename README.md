@@ -102,7 +102,7 @@ Automated analysis of Salesforce org health.
 ---
 
 ## Repository Structure
-
+```
 salesforce-admin-toolkit/
 ├─ docs/
 ├─ packages/
@@ -113,7 +113,7 @@ salesforce-admin-toolkit/
 ├─ scripts/
 ├─ README.md
 └─ LICENSE
-
+```
 ---
 
 ## Open Core Model
