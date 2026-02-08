@@ -106,10 +106,10 @@ Automated analysis of Salesforce org health.
 salesforce-admin-toolkit/
 ├─ docs/
 ├─ packages/
-│ ├─ flow-error-logger/
-│ ├─ lwc-datatable-pro/
-│ ├─ admin-lwc-pack/
-│ └─ org-health-check/
+│  ├─ flow-error-logger/
+│  ├─ lwc-datatable-pro/
+│  ├─ admin-lwc-pack/
+│  └─ org-health-check/
 ├─ scripts/
 ├─ README.md
 └─ LICENSE
